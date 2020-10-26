@@ -28,5 +28,4 @@ int const_x(const char *p, char x) {
 int main(void) {
     printf("%d\n", const_x("AHCDEHGHIJKLNM", 'H'));
     return 0;
-
 }
